@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721519399109",
+    "project_id": "chat-9fdbb",
+    "storage_bucket": "chat-9fdbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721519399109:android:34d19c58e05908192060ac",
+        "android_client_info": {
+          "package_name": "com.example.schooler_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkl1BPAf4lk8G5VhQWLIo8pcUgi3iQxr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
