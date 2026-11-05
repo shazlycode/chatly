@@ -63,7 +63,7 @@ class MessageBupple extends StatelessWidget {
                     style: TextStyle(
                       color: isCurrentUser
                           ? Colors.white
-                          : const Color.fromARGB(255, 192, 205, 220),
+                          : const Color.fromARGB(255, 131, 162, 198),
                       fontSize: 15,
                       height: 1.4,
                     ),
